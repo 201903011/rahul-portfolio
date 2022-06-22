@@ -2,7 +2,7 @@
   "name": "bako",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://201903011.github.io",
+  "homepage": "https://201903011.github.io/rahul-portfolio",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.4",
