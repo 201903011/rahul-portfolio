@@ -1,0 +1,2 @@
+(this.webpackJsonpbako=this.webpackJsonpbako||[]).push([[8],{133:function(a,s,t){"use strict";t.r(s),s.default=t.p+"static/media/campaign-web.4550977d.md"}}]);
+//# sourceMappingURL=8.69457610.chunk.js.map
