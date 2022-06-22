@@ -1,0 +1,2 @@
+(this.webpackJsonpbako=this.webpackJsonpbako||[]).push([[14],{139:function(a,t,e){"use strict";e.r(t),t.default=e.p+"static/media/react-native-front.a956ae07.md"}}]);
+//# sourceMappingURL=14.20d68c80.chunk.js.map

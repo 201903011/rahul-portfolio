@@ -1,0 +1,2 @@
+(this.webpackJsonpbako=this.webpackJsonpbako||[]).push([[10],{135:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/catalog-flutter.d6ba7f89.md"}}]);
+//# sourceMappingURL=10.a0a64988.chunk.js.map
