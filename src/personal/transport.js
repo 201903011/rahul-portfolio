@@ -1,0 +1,1 @@
+export const  Info1 = {"name" : "Rahul Gaikwad"} ;
